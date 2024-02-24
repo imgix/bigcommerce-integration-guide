@@ -1,7 +1,10 @@
-# BigCommerce imgix integration
+# [BigCommerce](https://www.bigcommerce.com/) imgix integrational guide
 
 ## Disclaimer:
-## This guide presents a working solution for integrating imgix into your Bigcommerce site. All configurations are made to work on top of Bigcommerce's front end and CDN, but will have certain limitations that are detailed in our caveats & warnings section below. We cannot, unfortunately, guarantee expected results if at any time Bigcommerce were to make changes to its system in ways that create breaking issues with this guide.
+
+This guide presents a working solution for integrating imgix into your Bigcommerce site. All configurations are made to work on top of [Bigcommerce's](https://www.bigcommerce.com/) front end and CDN, but will have certain limitations that are detailed in our [Caveats \& Warnings](#caveats--warnings) section. We cannot, unfortunately, guarantee expected results if at any time Bigcommerce were to make changes to its system in ways that create breaking issues with this guide.
+
+This guide is written for BigCommerce users with Stencil experience (BigCommerce's theme engine), and will require you to write, modify, and test custom code.
 
 # Table of contents
 
